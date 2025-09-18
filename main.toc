@@ -1,50 +1,50 @@
 \babel@toc {danish}{}\relax 
-\contentsline {chapter}{Indledning}{4}{chapter*.2}%
-\contentsline {chapter}{Niveau 1}{5}{chapter*.3}%
-\contentsline {section}{Evne beskrivelse}{5}{table.caption.4}%
-\contentsline {subsection}{Diagnose}{5}{section*.5}%
-\contentsline {subsection}{Ekstra NK Niv. 1}{5}{subsection*.6}%
+\contentsline {chapter}{\numberline {1}Indledning}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Niveau 1}{5}{chapter.2}%
+\contentsline {section}{Evne beskrivelse}{5}{section*.3}%
+\contentsline {subsection}{Diagnose}{5}{subsection*.4}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{5}{subsection*.5}%
 \contentsline {subsection}{Førstehjælp}{6}{subsection*.6}%
 \contentsline {subsection}{Indkomst}{6}{subsection*.7}%
-\contentsline {subsection}{Urtemidler Niv. 1}{6}{subsection*.7}%
-\contentsline {chapter}{Niveau 2}{7}{chapter*.9}%
-\contentsline {section}{Evne beskrivelse}{7}{table.caption.10}%
-\contentsline {subsection}{Ekstra LP Niv. 1}{7}{subsection*.11}%
-\contentsline {subsection}{Helbred Sår}{7}{subsection*.11}%
-\contentsline {subsection}{Læse og skrive Elvisk}{7}{subsection*.12}%
-\contentsline {subsection}{Urtemidler Niv. 2}{8}{figure.caption.13}%
-\contentsline {chapter}{Niveau 3}{9}{chapter*.15}%
-\contentsline {section}{Evne beskrivelse}{9}{table.caption.16}%
-\contentsline {subsection}{Ekstra NK Niv. 2}{9}{subsection*.17}%
-\contentsline {subsection}{Kur}{9}{subsection*.17}%
-\contentsline {subsection}{Sygdoms samler}{9}{subsection*.17}%
-\contentsline {subsection}{Triage}{10}{subsection*.17}%
-\contentsline {subsection}{Urtemidler Niv. 3}{10}{subsection*.17}%
-\contentsline {chapter}{Niveau 4}{11}{chapter*.19}%
-\contentsline {section}{Evne beskrivelse for Læge}{11}{section*.20}%
-\contentsline {subsection}{Celle Immunitet}{11}{section*.20}%
-\contentsline {subsection}{Ekstra NK Niv. 3}{11}{subsection*.21}%
-\contentsline {subsection}{Kirurg}{12}{subsection*.21}%
-\contentsline {subsection}{Pille}{12}{subsection*.21}%
-\contentsline {section}{Evne beskrivelse for Psykoterapeut}{12}{subsection*.21}%
-\contentsline {subsection}{Genoptræning}{12}{section*.22}%
-\contentsline {subsection}{Guided helbredelse}{12}{section*.22}%
-\contentsline {subsection}{Mental Barriere}{12}{section*.22}%
-\contentsline {subsection}{Urte omslag}{12}{section*.22}%
-\contentsline {chapter}{Generelle evner}{13}{chapter*.23}%
-\contentsline {section}{Evne beskrivelse}{13}{table.caption.24}%
-\contentsline {subsection}{6. sans Niv. 1}{13}{section*.25}%
-\contentsline {subsection}{6. sans Niv. 2}{14}{section*.25}%
-\contentsline {subsection}{Bonk}{14}{section*.25}%
-\contentsline {subsection}{Brug af pistol}{14}{section*.25}%
-\contentsline {subsection}{Bære person}{14}{section*.25}%
-\contentsline {subsection}{Kamp med tohåndsvåben}{15}{section*.25}%
-\contentsline {subsection}{Førstehjælp}{15}{section*.25}%
-\contentsline {subsection}{Læse og skrive}{15}{section*.25}%
-\contentsline {subsection}{Minearbejder}{15}{section*.25}%
-\contentsline {subsection}{Påfør gift}{15}{section*.25}%
-\contentsline {subsection}{Slagsbror Niv. 1}{16}{section*.25}%
-\contentsline {subsection}{Slagsbror Niv. 2}{16}{section*.25}%
-\contentsline {subsection}{Slagsbror Niv. 2}{16}{section*.25}%
-\contentsline {subsection}{Speciale}{16}{section*.25}%
-\contentsline {subsection}{Urtesamler}{17}{subsection*.26}%
+\contentsline {subsection}{Urtemidler Niv. 1}{6}{subsection*.8}%
+\contentsline {chapter}{\numberline {3}Niveau 2}{7}{chapter.3}%
+\contentsline {section}{Evne beskrivelse}{7}{section*.11}%
+\contentsline {subsection}{Ekstra LP Niv. 1}{7}{subsection*.12}%
+\contentsline {subsection}{Helbred Sår}{7}{subsection*.13}%
+\contentsline {subsection}{Læse og skrive Elvisk}{8}{subsection*.14}%
+\contentsline {subsection}{Urtemidler Niv. 2}{8}{subsection*.16}%
+\contentsline {chapter}{\numberline {4}Niveau 3}{9}{chapter.4}%
+\contentsline {section}{Evne beskrivelse}{9}{section*.19}%
+\contentsline {subsection}{Ekstra NK Niv. 2}{9}{subsection*.20}%
+\contentsline {subsection}{Kur}{9}{subsection*.21}%
+\contentsline {subsection}{Sygdoms samler}{10}{subsection*.22}%
+\contentsline {subsection}{Triage}{10}{subsection*.23}%
+\contentsline {subsection}{Urtemidler Niv. 3}{10}{subsection*.24}%
+\contentsline {chapter}{\numberline {5}Niveau 4}{12}{chapter.5}%
+\contentsline {section}{Evne beskrivelse for Læge}{12}{section*.26}%
+\contentsline {subsection}{Celle Immunitet}{12}{subsection*.27}%
+\contentsline {subsection}{Ekstra NK Niv. 3}{13}{subsection*.28}%
+\contentsline {subsection}{Kirurg}{13}{subsection*.29}%
+\contentsline {subsection}{Pille}{13}{subsection*.30}%
+\contentsline {section}{Evne beskrivelse for Psykoterapeut}{13}{section*.31}%
+\contentsline {subsection}{Genoptræning}{13}{subsection*.32}%
+\contentsline {subsection}{Guided helbredelse}{13}{subsection*.33}%
+\contentsline {subsection}{Mental Barriere}{13}{subsection*.34}%
+\contentsline {subsection}{Urte omslag}{14}{subsection*.35}%
+\contentsline {chapter}{Generelle evner}{15}{chapter*.36}%
+\contentsline {section}{Evne beskrivelse}{15}{table.caption.37}%
+\contentsline {subsection}{6. sans Niv. 1}{15}{section*.38}%
+\contentsline {subsection}{6. sans Niv. 2}{16}{section*.38}%
+\contentsline {subsection}{Bonk}{16}{section*.38}%
+\contentsline {subsection}{Brug af pistol}{16}{section*.38}%
+\contentsline {subsection}{Bære person}{16}{section*.38}%
+\contentsline {subsection}{Kamp med tohåndsvåben}{17}{section*.38}%
+\contentsline {subsection}{Førstehjælp}{17}{subsection*.39}%
+\contentsline {subsection}{Læse og skrive}{17}{subsection*.39}%
+\contentsline {subsection}{Minearbejder}{17}{subsection*.39}%
+\contentsline {subsection}{Påfør gift}{17}{subsection*.39}%
+\contentsline {subsection}{Slagsbror Niv. 1}{18}{subsection*.39}%
+\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.39}%
+\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.39}%
+\contentsline {subsection}{Speciale}{18}{subsection*.39}%
+\contentsline {subsection}{Urtesamler}{19}{subsection*.40}%
