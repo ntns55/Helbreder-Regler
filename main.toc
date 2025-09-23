@@ -33,18 +33,17 @@
 \contentsline {subsection}{Urte omslag}{14}{subsection*.35}%
 \contentsline {chapter}{Generelle evner}{15}{chapter*.36}%
 \contentsline {section}{Evne beskrivelse}{15}{table.caption.37}%
-\contentsline {subsection}{6. sans Niv. 1}{15}{section*.38}%
-\contentsline {subsection}{6. sans Niv. 2}{16}{section*.38}%
-\contentsline {subsection}{Bonk}{16}{section*.38}%
-\contentsline {subsection}{Brug af pistol}{16}{section*.38}%
-\contentsline {subsection}{Bære person}{16}{section*.38}%
-\contentsline {subsection}{Kamp med tohåndsvåben}{17}{section*.38}%
-\contentsline {subsection}{Førstehjælp}{17}{subsection*.39}%
-\contentsline {subsection}{Læse og skrive}{17}{subsection*.39}%
-\contentsline {subsection}{Minearbejder}{17}{subsection*.39}%
-\contentsline {subsection}{Påfør gift}{17}{subsection*.39}%
-\contentsline {subsection}{Slagsbror Niv. 1}{18}{subsection*.39}%
-\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.39}%
-\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.39}%
-\contentsline {subsection}{Speciale}{18}{subsection*.39}%
-\contentsline {subsection}{Urtesamler}{19}{subsection*.40}%
+\contentsline {subsection}{6. sans Niv. 1}{15}{subsection*.38}%
+\contentsline {subsection}{6. sans Niv. 2}{16}{subsection*.39}%
+\contentsline {subsection}{Bonk}{16}{subsection*.40}%
+\contentsline {subsection}{Brug af pistol}{16}{subsection*.41}%
+\contentsline {subsection}{Bære person}{16}{subsection*.42}%
+\contentsline {subsection}{Førstehjælp}{17}{subsection*.43}%
+\contentsline {subsection}{Læse og skrive}{17}{subsection*.44}%
+\contentsline {subsection}{Minearbejder}{17}{subsection*.45}%
+\contentsline {subsection}{Påfør gift}{17}{subsection*.46}%
+\contentsline {subsection}{Slagsbror Niv. 1}{17}{subsection*.47}%
+\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.48}%
+\contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.49}%
+\contentsline {subsection}{Speciale}{18}{subsection*.50}%
+\contentsline {subsection}{Urtesamler}{18}{subsection*.51}%
