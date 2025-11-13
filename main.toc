@@ -23,10 +23,10 @@
 \contentsline {chapter}{\numberline {5}Niveau 4}{11}{chapter.5}%
 \contentsline {section}{Evne beskrivelse}{11}{section*.27}%
 \contentsline {subsection}{Celle Immunitet}{11}{subsection*.28}%
-\contentsline {subsection}{Kirurg}{11}{subsection*.29}%
-\contentsline {subsection}{Pille}{12}{subsection*.30}%
-\contentsline {subsection}{Guided helbredelse}{12}{subsection*.31}%
-\contentsline {subsection}{Mental Barriere}{12}{subsection*.32}%
+\contentsline {subsection}{Guided helbredelse}{11}{subsection*.29}%
+\contentsline {subsection}{Kirurg}{12}{subsection*.30}%
+\contentsline {subsection}{Mental Barriere}{12}{subsection*.31}%
+\contentsline {subsection}{Pille}{12}{subsection*.32}%
 \contentsline {subsection}{Urte omslag}{12}{subsection*.33}%
 \contentsline {chapter}{\numberline {6}Generelle evner}{13}{chapter.6}%
 \contentsline {section}{Evne beskrivelse}{13}{section*.35}%
